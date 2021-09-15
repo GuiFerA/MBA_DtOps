@@ -1,2 +1,2 @@
 # MBA_DtOps
-Repo da Matéria de DataOps
+Repositório da Matéria de DataOps.
